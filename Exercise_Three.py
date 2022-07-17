@@ -19,3 +19,5 @@ num9 = float(input("Enter ninth number "))
 num10 = float(input("Enter tenth number "))
 sum = (num1) + (num2) + (num3) + (num4) + (num5) + (num6) + (num7) + (num8) + (num9) + (num10)
 print("Sum of all numbers is", sum)
+final = sum / 10
+prtin("Average of all numbers is", final)

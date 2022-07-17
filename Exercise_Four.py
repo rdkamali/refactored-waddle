@@ -3,7 +3,7 @@
 # print('My', 'Name', 'Is', 'James', sep='--')
 # -----------
 # num = 458.541315
-# print('%.2f' % num)
+# print('%.3f' % num)
 # -----------
 # num = 8
 # print('%o' % num)
