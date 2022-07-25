@@ -1,5 +1,17 @@
 # Exercise Three:
 # Write a python program average calculation for a class of ten students.
+a = float(input("Num1: "))
+b = float(input("Num2: "))
+c = float(input("Num3: "))
+d = float(input("Num4: "))
+e = float(input("Num5: "))
+f = float(input("Num6: "))
+g = float(input("Num7: "))
+h = float(input("Num8: "))
+i = float(input("Num9: "))
+j = float(input("Num10: "))
+s = (a) + (b) + (c) + (d) + (e) + (f) + (g) + (h) + (i) + (j)
+print(s/10)
 # Hint: Use typecasting. Like float(input("Enter a number: "))
 # ---- 
 # num1 = int(input("Enter first number "))
